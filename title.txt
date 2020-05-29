@@ -1,0 +1,6 @@
+Currency Rate Calculator, author Yuriy Kis.
+To exit the program please enter 'q' in the Currency field and press enter key.
+
+Please, enter the currency value in the Currency field and the rate value in EUR in the Rate field
+
+Available values:
